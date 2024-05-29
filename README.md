@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 😄, I'm Alvin Saputra</h1>
+<h2 align="center"> Junior Web Developer </h2>
+<div align="center">
+  
+https://github.com/Alvin-Saputra/Alvin-Saputra/assets/145079710/af8629b9-bcc5-4823-8a65-d560dd5e2d23
+</div>
 
 <!--
 **Alvin-Saputra/Alvin-Saputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
