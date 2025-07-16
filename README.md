@@ -1,8 +1,15 @@
-<h1 align="center">Hi 😄, I'm Alvin Saputra</h1>
+![1](https://github.com/user-attachments/assets/f19d59d1-2b3f-479f-a5ac-1cf468fab6c3)<h1 align="center">Hi 😄, I'm Alvin Saputra</h1>
 <h2 align="center"> Junior Mobile Developer </h2>
 <div align="center">
 
 https://github.com/Alvin-Saputra/Alvin-Saputra/assets/145079710/af8629b9-bcc5-4823-8a65-d560dd5e2d23
+</div>
+
+<div align="center">
+
+![1](https://github.com/user-attachments/assets/ed4911af-030a-4329-8d64-466a011d2dae)
+
+
 </div>
 
 <h1 align="center">Tech Stack</h1>
