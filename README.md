@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😄, I'm Alvin Saputra</h1>
+<h1 align="center">Hi, I'm Alvin Saputra</h1>
 <h2 align="center"> Junior Mobile Developer </h2>
 <div align="center">
 </div>
@@ -12,7 +12,8 @@
 ![7](https://github.com/user-attachments/assets/8b84f9a8-759b-480a-b56e-793412b79363)
 ![8](https://github.com/user-attachments/assets/63fc032c-dbcf-491e-b82b-e89cb8cd3ba0)
 ![9](https://github.com/user-attachments/assets/305055d5-3e65-47a4-9570-a4e61fc5bca5)
-![10](https://github.com/user-attachments/assets/399d3135-9b37-4a02-9719-4436d2708059)
+![11](https://github.com/user-attachments/assets/37a38334-a119-4ba5-974d-d906cae8e272)
+
 
 
 
