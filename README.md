@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/f19d59d1-2b3f-479f-a5ac-1cf468fab6c3)<h1 align="center">Hi 😄, I'm Alvin Saputra</h1>
+<h1 align="center">Hi 😄, I'm Alvin Saputra</h1>
 <h2 align="center"> Junior Mobile Developer </h2>
 <div align="center">
 
@@ -6,10 +6,19 @@ https://github.com/Alvin-Saputra/Alvin-Saputra/assets/145079710/af8629b9-bcc5-48
 </div>
 
 <div align="center">
-
 ![1](https://github.com/user-attachments/assets/ed4911af-030a-4329-8d64-466a011d2dae)
+</div>
 
+<div align="center">
+![2](https://github.com/user-attachments/assets/fb7a154b-ce6c-4267-91f3-7d052e32d544)
+</div>
 
+<div align="center">
+![3](https://github.com/user-attachments/assets/7c692f0d-7eae-478c-822c-4e17f36b1614)
+</div>
+
+<div align="center">
+![4](https://github.com/user-attachments/assets/d7cca2ea-9ed9-4ae2-8cd9-b3d25a87fce1)
 </div>
 
 <h1 align="center">Tech Stack</h1>
