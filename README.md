@@ -10,6 +10,11 @@ https://github.com/Alvin-Saputra/Alvin-Saputra/assets/145079710/af8629b9-bcc5-48
 ![2](https://github.com/user-attachments/assets/c03c8e47-df13-4723-86e5-eb1d38b732a7)
 ![3](https://github.com/user-attachments/assets/fbd6f56e-d244-4cd1-9e7e-4ee424bf3672)
 ![4](https://github.com/user-attachments/assets/eafba2e0-63ac-42f1-bd81-2dbecbc281a3)
+![6](https://github.com/user-attachments/assets/de74104e-db6d-4565-bab1-29074984ced0)
+![7](https://github.com/user-attachments/assets/8b84f9a8-759b-480a-b56e-793412b79363)
+![8](https://github.com/user-attachments/assets/63fc032c-dbcf-491e-b82b-e89cb8cd3ba0)
+![9](https://github.com/user-attachments/assets/305055d5-3e65-47a4-9570-a4e61fc5bca5)
+![10](https://github.com/user-attachments/assets/399d3135-9b37-4a02-9719-4436d2708059)
 
 
 
