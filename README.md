@@ -5,9 +5,9 @@
 https://github.com/Alvin-Saputra/Alvin-Saputra/assets/145079710/af8629b9-bcc5-4823-8a65-d560dd5e2d23
 </div>
 
-<div align="center">
+
 ![1](https://github.com/user-attachments/assets/ed4911af-030a-4329-8d64-466a011d2dae)
-</div>
+
 
 
 
