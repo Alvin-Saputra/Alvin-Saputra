@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,python,flask,androidstudio,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,python,flask,androidstudio,figma,vscode,php,mysql" />
   </a>
 </p>
 
