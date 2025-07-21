@@ -22,13 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,python,flask,androidstudio" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=firebase,git,github,figma,vite,cpp" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=java,python" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,python,flask,androidstudio,figma" />
   </a>
 </p>
 
