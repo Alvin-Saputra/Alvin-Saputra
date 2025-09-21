@@ -1,12 +1,7 @@
-<h1 align="center">Hi, I'm Alvin Saputra</h1>
-<h2 align="center"> Junior Mobile Developer </h2>
-<div align="center">
-</div>
-
+<h1>Hi, I'm Alvin Saputra</h1>
+<h2> Passionate Mobile Developer </h2>
 
 ![11](https://github.com/user-attachments/assets/37a38334-a119-4ba5-974d-d906cae8e272)
-
-
 
 <h1 align="center">Tech Stack</h1>
 
