@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,androidstudio,figma,vscode,php,laravel,mysql,vue,express, jetpackcompose" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,androidstudio,figma,vscode,php,laravel,mysql,vue,express,jetpackcompose" />
   </a>
 </p>
 
